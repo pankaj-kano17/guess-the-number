@@ -6,7 +6,7 @@ This project demonstrates fundamental web development concepts such as **DOM man
 ---
 
 ## 🚀 Demo
-🔗 [Play the Game Here](https://app.netlify.com/teams/pankajkanojia2512/projects)  
+🔗 [Play the Game Here](https://numbox.netlify.app/)  
 
 ---
 
